@@ -1,0 +1,197 @@
+[
+  {
+    "user_id": 100,
+
+    "user_name": "Gowtham",
+
+    "user_phone": "1234567890",
+
+    "user_password": "123",
+
+    "user_address": "123 Main Street, City",
+
+    "user_type": "admin"
+  },
+
+  {
+    "user_id": 101,
+
+    "user_name": "Jane Smith",
+
+    "user_phone": "9876543210",
+
+    "user_password": "pass123word",
+
+    "user_address": "456 Elm Street, Town",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 102,
+
+    "user_name": "Michael Johnson",
+
+    "user_phone": "5551234567",
+
+    "user_password": "securepass",
+
+    "user_address": "789 Oak Avenue, Village",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 103,
+
+    "user_name": "Emily Williams",
+
+    "user_phone": "1112223333",
+
+    "user_password": "p@ssw0rd",
+
+    "user_address": "246 Pine Road, County",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 104,
+
+    "user_name": "David Brown",
+
+    "user_phone": "4445556666",
+
+    "user_password": "securepwd",
+
+    "user_address": "135 Maple Lane, State",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 105,
+
+    "user_name": "Sarah Davis",
+
+    "user_phone": "7778889999",
+
+    "user_password": "safepassword",
+
+    "user_address": "579 Birch Street, Country",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 106,
+
+    "user_name": "Alex Wilson",
+
+    "user_phone": "5559998888",
+
+    "user_password": "mysecretpass",
+
+    "user_address": "890 Cedar Avenue, Town",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 107,
+
+    "user_name": "Sophia Lee",
+
+    "user_phone": "7773331111",
+
+    "user_password": "mypassword",
+
+    "user_address": "666 Elm Street, City",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 108,
+
+    "user_name": "James Miller",
+
+    "user_phone": "2221114444",
+
+    "user_password": "password321",
+
+    "user_address": "333 Oak Avenue, Village",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 109,
+
+    "user_name": "Mithun",
+
+    "user_phone": "8105160930",
+
+    "user_password": "1234",
+
+    "user_address": "333 Oak Avenue, Village",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 110,
+
+    "user_name": "gowtham",
+
+    "user_phone": "8248867484",
+
+    "user_password": "123",
+
+    "user_address": "333 Oak Avenue, Village",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 111,
+
+    "user_name": "Olivia Martin",
+
+    "user_phone": "9998887777",
+
+    "user_password": "myp@ssword",
+
+    "user_address": "111 Pine Road, County",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 112,
+
+    "user_name": "William Wilson",
+
+    "user_phone": "7778887777",
+
+    "user_password": "passwordabc",
+
+    "user_address": "444 Birch Street, Town",
+
+    "user_type": "normal"
+  },
+
+  {
+    "user_id": 113,
+
+    "user_name": "Emma Lee",
+
+    "user_phone": "1111112222",
+
+    "user_password": "pass123",
+
+    "user_address": "555 Oak Avenue, City",
+
+    "user_type": "normal"
+  }
+]
